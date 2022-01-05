@@ -1,0 +1,42 @@
+.heroImage {
+    max-width: 600px;
+}
+
+.heroTableImage{
+    max-width: 200px;
+}
+
+section{
+    padding: 2em;
+    margin-bottom: 3em;
+}
+
+.oddRow{
+    background-color:lightseagreen;
+}
+
+.evenRow{
+    background-color:crimson;
+    color:white;
+}
+
+.smallPadding{
+    padding: 1.5em;
+}
+
+.marvel{
+    padding: 3em;
+    background-color:red;
+    color:white;
+}
+
+.heroText{
+    font-family: 'Bangers', cursive;
+    font-size: 4em;
+    margin: 0;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: 2px 1px #292929;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+}
